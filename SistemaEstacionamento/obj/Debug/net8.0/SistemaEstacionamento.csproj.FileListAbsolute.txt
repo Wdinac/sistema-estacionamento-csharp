@@ -1,0 +1,15 @@
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.deps.json
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.runtimeconfig.json
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.dll
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.pdb
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.AssemblyInfoInputs.cache
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.AssemblyInfo.cs
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.csproj.CoreCompileInputs.cache
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.sourcelink.json
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.dll
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/refint/SistemaEstacionamento.dll
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.pdb
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.genruntimeconfig.cache
+/workspaces/sistema-estacionamento-csharp/SistemaEstacionamento/obj/Debug/net8.0/ref/SistemaEstacionamento.dll
